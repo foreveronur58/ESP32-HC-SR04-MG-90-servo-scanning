@@ -13,4 +13,4 @@ Step 3:
 Adjust your maximum and minimum distance for object detection
 
 Final step:
-Make sure that you check MATLAB script for visuazilation. And verify that your parameters match with MATLAB script
+Make sure that you check MATLAB script for visualization. And verify that your parameters match with MATLAB script
